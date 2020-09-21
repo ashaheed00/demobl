@@ -19,11 +19,8 @@ public class App {
 		LOG.error(message + " wil be printed on Error");
 		LOG.fatal(message + " wil be printed on Fatal");
 		LOG.info("Appending String: {}.", message);
-<<<<<<< HEAD
-		System.out.println("Hello World! good morning!");
-=======
+
 		System.out.println("Hello World! Good Morning Again!");
->>>>>>> e5f14b00743ecabf582303ec33a411e0e84d55ea
 	}
 }
 
